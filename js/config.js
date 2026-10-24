@@ -23,7 +23,7 @@ const APP_CONFIG = {
     email: "clbneuron.neu@gmail.com",
     hotline: "0946829848",
     hotlineDisplay: "(+84) 946 829 848 (Ms. Nhi)",
-    address: "Trường Đại học Kinh tế Quốc dân (NEU), 207 Giải Phóng, Bạch Mai, Hà Nội"
+    address: "Đại học Kinh tế Quốc dân (NEU), 207 Giải Phóng, Bạch Mai, Hà Nội"
   },
 
   // Timeline 3 Vòng Broadway
@@ -240,7 +240,7 @@ const APP_CONFIG = {
   faqs: [
     {
       q: "Sinh viên năm mấy có thể tham gia ứng tuyển Gen 9?",
-      a: "NEURON mở rộng cánh cửa đón chào tất cả các bạn sinh viên (đặc biệt là K64, K65, K66 và tân sinh viên K67) đang theo học tại Trường Đại học Kinh tế Quốc dân cũng như các trường đại học khác trên địa bàn Hà Nội có chung niềm đam mê với Truyền thông & Marketing."
+      a: "NEURON mở rộng cánh cửa đón chào tất cả các bạn sinh viên (K66, K67 và đặc biệt là K68) đang theo học tại Đại học Kinh tế Quốc dân cũng như các trường đại học khác trên địa bàn Hà Nội có chung niềm đam mê với Truyền thông & Marketing."
     },
     {
       q: "Mình chưa có kinh nghiệm về Marketing hay kỹ năng chuyên môn thì có nộp được không?",
